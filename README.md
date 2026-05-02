@@ -32,6 +32,7 @@ Below is a detailed list of projects and labs completed during this internship:
 | 12 | **Dynamic List App** | React, Array Methods | A task management list that supports adding, deleting, and filtering items. |
 | 13 | **Multi-Page App** | React Router | Building a seamless SPA (Single Page Application) with multiple views. |
 | 14 | **Smart Signup Form** | React, Regex | A complex authentication form with advanced password strength validation. |
+| 15 | **Advanced Backend Lab** | Node, Express | *Ongoing / Pending Task* |
 | 16 | **Hello Server** | Node.js, Express | Setting up a basic web server and handling HTTP requests. |
 | 17 | **Product Listing UI** | React, CSS Modules | A modern e-commerce interface for browsing and filtering products. |
 | 18 | **Route Master** | Express Router | Mastering server-side routing and middleware management. |
